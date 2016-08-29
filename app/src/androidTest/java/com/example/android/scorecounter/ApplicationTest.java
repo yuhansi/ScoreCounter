@@ -1,4 +1,4 @@
-package com.example.android.courtcounter;
+package com.example.android.scorecounter;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;
